@@ -1,5 +1,4 @@
- to use
-how
+how to use
 
 
 git clone https://github.com/saimzx007/Saeim-ZX-webmaster.git
